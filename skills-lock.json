@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "agents-md-improver": {
+      "source": "ericmjl/skills",
+      "sourceType": "github",
+      "computedHash": "15fcaa42d2e91c4c4dfe2c18c8f769025822f773a083de6b8f7796afb1784133"
+    },
+    "golang": {
+      "source": "saisudhir14/golang-agent-skill",
+      "sourceType": "github",
+      "computedHash": "42d90749c87d02ef6cc120ff8864d993a07c3206b4bdee359a6b3827a4d78936"
+    },
+    "golang-patterns": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "67c25e95cec3f3166c2efefd5f4502863a1246c6f742b8cbcd2e2864d2a8182a"
+    },
+    "golang-pro": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "computedHash": "c90a0798a12ea2d9191508439ec3191dd96713310615260ebe82ec5a09a4a434"
+    },
+    "golang-testing": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "db6e910031d9c289f91697cf2397b8a3f717c6fdeae7a115e811a32544d99e11"
+    }
+  }
+}
